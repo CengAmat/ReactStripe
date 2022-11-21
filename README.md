@@ -1,1 +1,0 @@
-Simple Stripe Payment Integration
